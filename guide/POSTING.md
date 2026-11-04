@@ -1,11 +1,11 @@
 # velog 발행 계획과 상태
 
-글 원고는 이 폴더의 `NN_*.md`이고, 본문 첫 줄부터 그대로 velog 본문이 됩니다. 제목과 태그는 아래 표에 있습니다. 하루에 한 편씩, 원고가 있고 아직 발행되지 않은 가장 앞 번호를 올립니다.
+글은 `STYLE.md`의 기준을 지켜서 쓴다. 글 원고는 이 폴더의 `NN_*.md`이고, 본문 첫 줄부터 그대로 velog 본문이 됩니다. 제목과 태그는 아래 표에 있습니다. 하루에 한 편씩, 원고가 있고 아직 발행되지 않은 가장 앞 번호를 올립니다.
 
 | 번호 | 원고 | 제목 | 태그 | 상태 |
 |---|---|---|---|---|
-| 01 | 01_go2-edu-internal-network.md | Go2 EDU에 Jetson 두 대를 붙일 때: 내부 네트워크 구조와 접속 방법 | Go2, ROS2, Jetson, 네트워크, 로보틱스 | 발행 2026-11-04 https://velog.io/@hhyun0418/go2-edu-internal-network |
-| 02 | 02_jetson-flash-and-driver.md | Orin NX를 JetPack 6.2.2로 다시 설치하고 USB 무선랜 드라이버를 올릴 때 겪은 일 | Jetson, JetPack, Ubuntu, 리눅스, 로보틱스 | 원고 있음, 발행 전 |
+| 01 | 01_go2-edu-internal-network.md | Go2 EDU에 Jetson 두 대를 붙일 때: 내부 네트워크 구조와 접속 방법 | Go2, ROS2, Jetson, 네트워크, 로보틱스 | 발행 2026-11-04 https://velog.io/@hhyun0418/go2-edu-internal-network (재작성본 v2로 velog 수정 필요, 새 제목: Go2 EDU에 Jetson 두 대 붙이기: 내부망 구조, SSH 접속, 인터넷이 끊길 때) |
+| 02 | 02_jetson-flash-and-driver.md | Orin NX에 JetPack 6.2.2 올리고 USB 무선랜 붙이기: 복구 모드, cfg80211 충돌, 검은 화면 | Jetson, JetPack, Ubuntu, 리눅스, 로보틱스 | 원고 있음, 발행 전 |
 | 03 | (작성 예정) | 무선랜 안정화: 자동 재연결, 절전 끄기, watchdog | | 원고 없음 |
 | 04 | (작성 예정) | ROS2 DDS 통신 설정: CycloneDDS, ROS_DOMAIN_ID, WSL2 | | 원고 없음 |
 | 05 | (작성 예정) | LiDAR 점군에서 2D scan으로 | | 원고 없음 |
