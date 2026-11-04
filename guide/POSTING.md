@@ -5,9 +5,9 @@
 | 번호 | 원고 | 제목 | 태그 | 상태 |
 |---|---|---|---|---|
 | 01 | 01_go2-edu-internal-network.md | Go2 EDU에 Jetson 두 대를 붙일 때: 내부 네트워크 구조와 접속 방법 | Go2, ROS2, Jetson, 네트워크, 로보틱스 | 발행 2026-11-04 https://velog.io/@hhyun0418/go2-edu-internal-network |
-| 02 | (작성 예정) | ROS2 DDS 통신 설정: CycloneDDS, ROS_DOMAIN_ID, WSL2 | | 원고 없음 |
-| 03 | (작성 예정) | Jetson 플래시와 드라이버 | | 원고 없음 |
-| 04 | (작성 예정) | 무선랜 안정화 | | 원고 없음 |
+| 02 | 02_jetson-flash-and-driver.md | Orin NX를 JetPack 6.2.2로 다시 설치하고 USB 무선랜 드라이버를 올릴 때 겪은 일 | Jetson, JetPack, Ubuntu, 리눅스, 로보틱스 | 원고 있음, 발행 전 |
+| 03 | (작성 예정) | 무선랜 안정화: 자동 재연결, 절전 끄기, watchdog | | 원고 없음 |
+| 04 | (작성 예정) | ROS2 DDS 통신 설정: CycloneDDS, ROS_DOMAIN_ID, WSL2 | | 원고 없음 |
 | 05 | (작성 예정) | LiDAR 점군에서 2D scan으로 | | 원고 없음 |
 | 06 | (작성 예정) | slam_toolbox로 지도 만들기 | | 원고 없음 |
 | 07 | (작성 예정) | AMCL과 Nav2로 Point-to-Point 이동 | | 원고 없음 |
