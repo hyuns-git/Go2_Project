@@ -9,7 +9,7 @@
 | 03 | 03_wifi-stabilization-watchdog.md (원고 A), 03_wifi-stability.md (원고 B) | Jetson USB Wi-Fi가 끊길 때: NetworkManager 설정과 watchdog 오작동 잡기 (A) / Jetson Orin에서 USB 무선랜이 재부팅 후 안 붙을 때: 자동 연결, 절전 끄기, 재연결 watchdog (B) | Jetson, 무선랜, NetworkManager, 리눅스, 로보틱스 | 발행 2026-11-06 https://velog.io/@hhyun0418/jetson-wifi-stability (원고 B가 올라감. 같은 날 원고 A가 따로 추가돼 있어서 A는 미발행. 어느 쪽을 03번으로 둘지 사용자 결정 필요) |
 | 04 | 04_ros2-dds-cyclonedds-setup.md | Go2 ROS2 토픽이 안 보이거나 echo가 실패할 때: CycloneDDS 인터페이스 지정과 unitree_ros2 빌드 (Humble) | Go2, ROS2, CycloneDDS, DDS, 로보틱스 | 발행 2026-11-08 https://velog.io/@hhyun0418/ros2-dds-cyclonedds-setup |
 | 05 | 05_lidar-pointcloud-to-2d-scan.md | Go2 LiDAR 점군을 2D LaserScan으로 바꾸기: 시계 오프셋, (0,0,0) 더미 점, 높이 필터 | Go2, ROS2, LiDAR, SLAM, 로보틱스 | 발행 2026-11-11 https://velog.io/@hhyun0418/lidar-pointcloud-to-2d-scan |
-| 06 | 06_slam-toolbox-mapping-jetson-power-mode.md | slam_toolbox가 Jetson에서 지도를 망칠 때: Ceres 4스레드 경고와 15W 전력 모드 | Jetson, slam_toolbox, ROS2, SLAM, 로보틱스 | 원고 있음, 발행 전 |
+| 06 | 06_slam-toolbox-mapping-jetson-power-mode.md | slam_toolbox가 Jetson에서 지도를 망칠 때: Ceres 4스레드 경고와 15W 전력 모드 | Jetson, slam_toolbox, ROS2, SLAM, 로보틱스 | 발행 2026-11-12 https://velog.io/@hhyun0418/slam-toolbox-mapping-jetson-power-mode |
 | 07 | 07_nav2-amcl-point-to-point.md | Nav2 Humble에서 Go2를 지점까지 보내기: AMCL 모션 모델, behavior_server, BT XML 오류 | Go2, ROS2, Nav2, AMCL, 로보틱스 | 원고 있음, 발행 전 |
 | 08 | 08_stair-climbing-sport-api.md | Go2 계단 자율 주행 만들기: yaw 유지, 구간 종료 판정, 실기에서 틀린 가정들 | Go2, ROS2, 로보틱스, 계단, Unitree | 원고 있음, 발행 전 |
 
