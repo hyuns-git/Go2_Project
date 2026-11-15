@@ -11,7 +11,7 @@
 | 05 | 05_lidar-pointcloud-to-2d-scan.md | Go2 LiDAR 점군을 2D LaserScan으로 바꾸기: 시계 오프셋, (0,0,0) 더미 점, 높이 필터 | Go2, ROS2, LiDAR, SLAM, 로보틱스 | 발행 2026-11-11 https://velog.io/@hhyun0418/lidar-pointcloud-to-2d-scan |
 | 06 | 06_slam-toolbox-mapping-jetson-power-mode.md | slam_toolbox가 Jetson에서 지도를 망칠 때: Ceres 4스레드 경고와 15W 전력 모드 | Jetson, slam_toolbox, ROS2, SLAM, 로보틱스 | 발행 2026-11-12 https://velog.io/@hhyun0418/slam-toolbox-mapping-jetson-power-mode |
 | 07 | 07_nav2-amcl-point-to-point.md | Nav2 Humble에서 Go2를 지점까지 보내기: AMCL 모션 모델, behavior_server, BT XML 오류 | Go2, ROS2, Nav2, AMCL, 로보틱스 | 발행 2026-11-13 https://velog.io/@hhyun0418/nav2-amcl-point-to-point |
-| 08 | 08_stair-climbing-sport-api.md | Go2 계단 자율 주행 만들기: yaw 유지, 구간 종료 판정, 실기에서 틀린 가정들 | Go2, ROS2, 로보틱스, 계단, Unitree | 원고 있음, 발행 전 |
+| 08 | 08_stair-climbing-sport-api.md | Go2 계단 자율 주행 만들기: yaw 유지, 구간 종료 판정, 실기에서 틀린 가정들 | Go2, ROS2, 로보틱스, 계단, Unitree | 발행 2026-11-15 https://velog.io/@hhyun0418/stair-climbing-sport-api |
 
 ## 발행 방법 (Claude in Chrome, velog 로그인된 상태)
 
